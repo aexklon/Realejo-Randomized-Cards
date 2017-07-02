@@ -1,0 +1,22 @@
+{
+  "name": "realejo-randomized-cards",
+  "version": "0.0.1",
+  "description": "Realejo takes json input and, using react, renders it in the browser",
+  "authors": [
+    "al-lopes"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha.6",
+    "animate.css": "^3.5.2",
+    "font-awesome": "fontawesome#^4.7.0"
+  }
+}
