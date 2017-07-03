@@ -2,3 +2,4 @@ bower_components
 node_modules
 _
 package-lock.json
+dist/data.json

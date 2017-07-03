@@ -18,7 +18,7 @@ $greyish:	  hsl(180, 5%, 90%);
 $wetsand:		hsl(35, 65%, 70%);
 $creamwhite:hsl(53, 90%, 94%);
 $snowwhite:	hsl(0, 0%, 99.3%);
-$reciclato: hsl(170, 49%, 98%);
+$reciclato: hsl(42, 14%, 86%);
 
 body, html {
 	color: rgba(15,0,15,0.95);
@@ -59,7 +59,7 @@ button {
 	&.card--cream 	{ background-color: darken($creamwhite, 3%); }
 	&.card--snow		{ background-color: darken($snowwhite, 3%); }
 	&.card--recic 	{ background-color: darken($reciclato, 3%); }
-	
+
 	// card fonts
 	&.card--pink 				{ font-family: 'Mate', serif; font-size: 115%; }
 	&.card--green 			{ font-family: 'News Cycle', sans-serif; font-size: 110%; }
@@ -74,7 +74,6 @@ button {
 	&.card--recic 			{ font-family: 'PT Serif', serif; }
 	// card specific bgs and other effects
 	&.card--recic 	{
-		text-shadow: 0 1px 1px white;
 		background-image: url('img/theme-assets/card__bg-recic.png');
 	}
 	&.card--orange {
