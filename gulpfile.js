@@ -79,7 +79,7 @@ gulp.task('serve', () => {
   const chalk = require('chalk')
   const express = require('express')
   const devServer = express()
-  const port = 8080
+  const port = 80
   const paths = [{
     url: '/',
     path: dir.dist.replace('./', '/')
