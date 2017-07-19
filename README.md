@@ -29,4 +29,4 @@ The entry point is the file `./src/index.ejs`, which request all css/js and load
 The included file `./src/demo.xlsx` can be used as a template and compiled to json running `gulp xlsxj`
 
 ## License
-MIT © [Alexandre Lopes](https://alexandrelopes.design)
+MIT © [Alexandre Lopes](http://alexandrelopes.design)
